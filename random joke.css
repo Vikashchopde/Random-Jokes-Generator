@@ -1,0 +1,29 @@
+.container{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    /* transform: translate(-50%,-50%); */
+  }
+  #joke{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(50, 23, 110);
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    padding: 20px;
+  }
+  #btn{
+    width: 170px;
+    height: 50px;
+    background-color: rgb(50, 23, 110);
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    border-radius: 5%;
+    cursor: pointer;
+  }
+
